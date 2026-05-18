@@ -1,5 +1,2 @@
 nome=input("Digite seu nome: ")
-sobrenome=input("Digite seu sobrenome: ")
-idade=input("Digite sua idade: ")
-peso=input("Digite seu peso: ")
-altura=input("Digite sua altura: ")
+print("Olá, " + nome + "! Seja bem-vindo(a) ao mundo da programação em Python!")
