@@ -1,5 +1,4 @@
-dia = input(" em que dia voce nasceu? ")
-mes = input(" em que mes voce nasceu? ")
-ano = input(" em que ano voce nasceu? ")
+primeiro_numero = input("Digite o primeiro número: ")
+segundo_numero = input("Digite o segundo número: ")
 
-print(" voce nasceu no dia " + dia + " de " +mes + " de " + ano + " certo? ")
+print(primeiro_numero + segundo_numero)
