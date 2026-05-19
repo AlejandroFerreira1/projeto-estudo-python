@@ -1,5 +1,2 @@
-nome_do_paciente = input("digite o nome do pacinete: ")
-idade_do_paciente = int(input("digite a idade do paciente: "))
-sexo_do_paciente = input("digeite o sexo do paciente: ")
-data_de_entrada = input("digete a data de entrada do paciente: ")
-é_um_novo_paciente = input("é um novo paciente? (sim/não): ")
+nome = input("Digite seu nome: ")
+print("Olá, " + nome + "! Bem-vindo ao mundo da programação!")
