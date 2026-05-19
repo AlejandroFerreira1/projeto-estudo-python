@@ -1,5 +1,5 @@
-nome_do_paciente = "João"
-idade_do_paciente = 30
-sexo_do_paciente = "Masculino"
-data_de_entrada = "2024-06-01"
-é_um_novo_paciente = True
+nome_do_paciente = input("digite o nome do pacinete: ")
+idade_do_paciente = int(input("digite a idade do paciente: "))
+sexo_do_paciente = input("digeite o sexo do paciente: ")
+data_de_entrada = input("digete a data de entrada do paciente: ")
+é_um_novo_paciente = input("é um novo paciente? (sim/não): ")
